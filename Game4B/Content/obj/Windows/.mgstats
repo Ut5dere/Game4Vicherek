@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/vicherek/Desktop/Game4B/Game4B/Content/../../../../Downloads/rex.png","C:/Users/vicherek/Desktop/Game4B/Game4B/Content/bin/Windows/rex.xnb","TextureProcessor","Texture2DContent",1999,4181,0,3180242
+"C:/Users/vicherek/Desktop/Game4B/Game4B/Content/../../../../Downloads/wall.png","C:/Users/vicherek/Desktop/Game4B/Game4B/Content/bin/Windows/wall.xnb","TextureProcessor","Texture2DContent",886,10085,0,0110044
+"C:/Users/vicherek/Desktop/Game4B/Game4B/Content/sprite.png","C:/Users/vicherek/Desktop/Game4B/Game4B/Content/bin/Windows/bird.xnb","TextureProcessor","Texture2DContent",1992,4181,0,0160023

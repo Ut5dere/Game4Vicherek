@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/vicherek/Desktop/Game4B/Game4B/Content/../../../../Downloads/rex.png</File>
+    <File>C:/Users/vicherek/Desktop/Game4B/Game4B/Content/../../../../Downloads/wall.png</File>
+    <File>C:/Users/vicherek/Desktop/Game4B/Game4B/Content/sprite.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>rex.png</File>
+    <File>wall.png</File>
+    <File>bird.png</File>
+  </DestFiles>
+</SourceFileCollection>
